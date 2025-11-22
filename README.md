@@ -37,7 +37,7 @@ HeartLink bridges the gap between seniors requiring assistance and volunteers ea
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://codesandbox.io/s/https://codesandbox.io/p/sandbox/currying-flower-hncwhh)
+[View Live Demo](https://codesandbox.io/p/sandbox/currying-flower-hncwhh)
 
 ## 📸 Screenshots
 
