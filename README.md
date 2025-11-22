@@ -1,4 +1,4 @@
-# 🫶 HeartLink - Volunteer Matching Platform
+# 🫶 Elderly Angel - Volunteer Matching Platform
 
 A modern web platform that connects elders who need help with compassionate volunteers in their local community.
 
@@ -42,7 +42,7 @@ Elderly Angel bridges the gap between seniors requiring assistance and volunteer
 ## 📸 Appearance
 
 ### Login Screen
-![Login Screen](images/FrontPage.png)
+![Login Screen](images/Frontpage.png)
 *Beautiful gradient interface welcoming users*
 
 ### Elder Dashboard
@@ -84,7 +84,7 @@ npm install
 
 3. **Add your Google Maps API key**
    - Open `src/App.tsx`
-   - Replace `YOUR_GOOGLE_MAPS_API_KEY` with your actual API key
+   - Fill in with the actual API key
 
 4. **Start the development server**
 ```bash
@@ -155,7 +155,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👥 Team
 
 - **Developer**: xqxiang06
-- **Collaborators**: jessieeeyt, Weixi777, yumin951022-ship-it
+- **Collaborators**: yumin951022-ship-it, jessieeeyt, Weixi777
 - **Project Type**: DA Hack Project
 - **Date**: Nov 22, 2025
 
