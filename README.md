@@ -46,11 +46,11 @@ HeartLink bridges the gap between seniors requiring assistance and volunteers ea
 *Beautiful gradient interface welcoming users*
 
 ### Elder Dashboard
-![Elder Dashboard](screenshots/Elder-Dashboard.png)
+![Elder Dashboard](screenshots/Elder%20Dashboard.png)
 *Simple interface for posting help requests with interactive map*
 
 ### Volunteer Dashboard
-![Volunteer Dashboard](screenshots/Volunteer-Page.png)
+![Volunteer Dashboard](screenshots/Volunteer%20Page.png)
 *Interactive map showing nearby requests and achievement tracking system*
 
 ### Login Screen
