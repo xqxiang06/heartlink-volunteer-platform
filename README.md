@@ -6,7 +6,7 @@ A modern web platform that connects elders who need help with compassionate volu
 
 ## 🌟 Overview
 
-HeartLink bridges the gap between seniors requiring assistance and volunteers eager to help. Our platform makes it easy for elders to request help with daily tasks while enabling volunteers to find meaningful opportunities to give back to their community.
+Elderly Angel bridges the gap between seniors requiring assistance and volunteers eager to help. Our platform makes it easy for elders to request help with daily tasks while enabling volunteers to find meaningful opportunities to give back to their community.
 
 ## ✨ Features
 
@@ -154,11 +154,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👥 Team
 
-Created for [Your Hackathon Name Here]
-
 - **Developer**: xqxiang06
-- **Project Type**: Hackathon Project
-- **Date**: November 2025
+- **Collaborators**: jessieeeyt, Weixi777, yumin951022-ship-it
+- **Project Type**: DA Hack Project
+- **Date**: Nov 22, 2025
 
 ## 🙏 Acknowledgments
 
