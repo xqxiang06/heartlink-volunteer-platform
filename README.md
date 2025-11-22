@@ -158,7 +158,7 @@ Created for [Your Hackathon Name Here]
 
 - **Developer**: xqxiang06
 - **Project Type**: Hackathon Project
-- **Date**: November 2024
+- **Date**: November 2025
 
 ## 🙏 Acknowledgments
 
