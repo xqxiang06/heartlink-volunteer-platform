@@ -39,18 +39,18 @@ HeartLink bridges the gap between seniors requiring assistance and volunteers ea
 
 [View Live Demo](https://codesandbox.io/p/sandbox/currying-flower-hncwhh)
 
-## 📸 Screenshots
+## 📸 Appearance
 
 ### Login Screen
-![Login Screen](screenshots/FrontPage.png)
+![Login Screen](images/FrontPage.png)
 *Beautiful gradient interface welcoming users*
 
 ### Elder Dashboard
-![Elder Dashboard](screenshots/Elder%20Dashboard.png)
+![Elder Dashboard](images/Elder%20Dashboard.png)
 *Simple interface for posting help requests with interactive map*
 
 ### Volunteer Dashboard
-![Volunteer Dashboard](screenshots/Volunteer%20Page.png)
+![Volunteer Dashboard](images/Volunteer%20Page.png)
 *Interactive map showing nearby requests and achievement tracking system*
 
 ### Login Screen
