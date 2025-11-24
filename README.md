@@ -1,4 +1,4 @@
-# 🫶 Elderly Angel - Volunteer Matching Platform
+e# 🫶 Elderly Angel - Volunteer Matching Platform
 
 A modern web platform that connects elders who need help with compassionate volunteers in their local community.
 
@@ -83,7 +83,7 @@ npm install
 ```
 
 3. **Add your Google Maps API key**
-   - Open `src/App.tsx`
+   - Open `.env`
    - Fill in with the actual API key
 
 4. **Start the development server**
