@@ -1,4 +1,7 @@
 import React, { useState, useEffect } from "react";
+
+const apiKey = process.env.GOOGLE_MAP_API_KEY;
+
 import {
   Heart,
   MapPin,
@@ -173,7 +176,7 @@ const App = () => {
             loading="lazy"
             allowFullScreen
             referrerPolicy="no-referrer-when-downgrade"
-            src={`https://www.google.com/maps/embed/v1/view?key=AIzaSyDenb0ofO7ISV1oDJMyG2XaovBGPamj9ag&center=37.3382,-121.8863&zoom=13&maptype=roadmap`}
+            src={`https://www.google.com/maps/embed/v1/view?key=${apiKey}&center=37.3382,-121.8863&zoom=13&maptype=roadmap`}
             className="rounded-xl"
           ></iframe>
 
